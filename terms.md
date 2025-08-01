@@ -1,6 +1,6 @@
 # Roblox Whitelist Bot 服務條款
 
-歡迎使用 Roblox Whitelist Bot（以下簡稱「本服務」）。本服務由 ASM Studio 提供，用於管理 Roblox 遊戲的白名單授權及相關功能。使用本服務前，請仔細閱讀以下條款：
+歡迎使用 WhiteGuard Bot（以下簡稱「本服務」）。本服務由 ASM Studio 提供，用於管理 Roblox 遊戲的白名單授權及相關功能。使用本服務前，請仔細閱讀以下條款：
 
 ## 1. 接受條款
 - 當您將本服務加入您的 Discord 伺服器或使用其功能時，即表示您同意本服務條款。
@@ -26,8 +26,8 @@
 
 ## 6. 聯繫方式
 - 如有問題，請聯繫 ASM Studio：
-  - Discord：@asmstudio
-  - 電子郵件：support@asmstudio.example.com（請替換為真實聯繫方式）
+  - Discord：@.kopro
+  - 電子郵件：vv60928567@gmail.com
 
 ## 7. 條款更新
 - 本條款可能隨時更新，最新版本將於本頁公布。
